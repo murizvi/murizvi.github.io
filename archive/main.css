@@ -1,0 +1,55 @@
+.nav a {
+	color: white;
+	font-size: 36px;
+	font-family: "Open Sans", sans-serif;
+	text-transform: uppercase;
+	padding: 10px;
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav {
+	padding-top: 20px;
+	background-color: darkslategray;
+	padding-bottom: 10px;
+}
+
+body {
+	background-image: url("images/credit_river.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.jumbotron {
+	background: none;
+}
+
+.full-spread .container {
+	position: relative;
+	top: 200px;
+}
+
+.full-spread h1 {
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	text-shadow: 2px 2px black;
+}
+
+.full-spread p {
+	color: white;
+	font-family: "Open Sans", sans-serif;
+	font-size: 36px;
+	text-shadow: 1px 1px black;
+}
+
+
+.full-spread .jumbotron .container .links .col-md-3 {
+	margin-right: -20px;
+}
+
+
